@@ -347,4 +347,6 @@
   <project path="tools/build" name="platform/tools/build" groups="toolsbuild" />
   <project path="tools/motodev" name="platform/tools/motodev" />
 
+  <project path="android" name="TCP-Dev/android" />
+
 </manifest>
